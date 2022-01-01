@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Juliolimahen
+- 👋 Hi, I’m Julio 
 - 📚 Computer Science Student... 
 - 🌱 I’m currently learning C#, Python, Spring Boot and React JS...
 - 💞️ I’m looking to collaborate on with projects and new knowledge that I've been acquiring...
@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/Juliolimahen/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juliolimahen&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliolimahen&layout=compact&langs_count=9&theme=nightowl"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliolimahen&layout=compact&langs_count=8&theme=nightowl"/>
 </div><br>
  
 - Languages used in everyday life </p>
