@@ -1,11 +1,11 @@
 # Julio Henrique
 
-- 👋 Hi, I’m Julio.
-- 💻 I’m a junior software developer.
-- 📚 Bachelor's Degree in Computer Science.
-- 🌱 I’m currently learning C#, .Net, Python, Spring Boot, and React JS.
-- 🌱 I’m focused on expanding my knowledge in microservices and RESTful API development.
-- 🌱 I’m looking to collaborate on projects and apply the new knowledge I've been acquiring.
+- 👋 Hi, I'm Julio.
+- 💻 I work as a junior software developer.
+- 📚 I hold a Bachelor's Degree in Computer Science.
+- 🌱 Currently, I'm learning C#, .Net, Python, Spring Boot, and React JS.
+- 🌱 My primary focus is on enhancing my expertise in microservices and RESTful API development.
+- 🌱 I'm eager to collaborate on projects and apply the fresh knowledge I've been acquiring.
 
 ## Connect with me
 
