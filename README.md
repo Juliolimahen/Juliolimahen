@@ -1,20 +1,27 @@
-- 👋 Hi, I’m Julio 
-- 📚 Bachelor's Degree in Computer Science 
-- 🌱 I’m currently learning C#, Python, Spring Boot, and React JS.
-- I’m looking to collaborate on projects and apply the new knowledge I've been acquiring.
+# Julio Henrique
 
-- <a href="https://www.linkedin.com/in/julio-henrique-143193154/"/><img align="center" alt="Julio-LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br><br>
+- 👋 Hi, I’m Julio.
+- 💻 I’m a junior software developer.
+- 📚 Bachelor's Degree in Computer Science.
+- 🌱 I’m currently learning C#, .Net, Python, Spring Boot, and React JS.
+- 🌱 I’m focused on expanding my knowledge in microservices and RESTful API development.
+- 🌱 I’m looking to collaborate on projects and apply the new knowledge I've been acquiring.
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-henrique-143193154/)
+
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Juliolimahen">
   <img height="180em"src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Juliolimahen&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=Juliolimahen&layout=compact&langs_count=8&theme=nightowl"/>
-</div><br>
- 
-- Languages used in everyday life </p>
- 
+</div>
+<br>
 
-  
+## Languages used in everyday life
+
   <div style="display: inline_block"><br>
   
   <img align="center" alt="Julio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,8 +35,3 @@
   <img align="center" alt="Julio-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   
 </div>
-
-<!---
-Juliolimahen/Juliolimahen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
