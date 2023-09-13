@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Julio 
-- 📚 Computer Science Student... 
-- 🌱 I’m currently learning C#, Python, Spring Boot and React JS...
-- I’m looking to collaborate on with projects and new knowledge that I've been acquiring...
+- 📚 Bachelor's Degree in Computer Science 
+- 🌱 I’m currently learning C#, Python, Spring Boot, and React JS.
+- I’m looking to collaborate on projects and apply the new knowledge I've been acquiring.
 
 - <a href="https://www.linkedin.com/in/julio-henrique-143193154/"/><img align="center" alt="Julio-LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br><br>
 
