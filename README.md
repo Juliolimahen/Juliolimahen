@@ -2,11 +2,11 @@
 
 - 👋 Hi, I'm Julio.
 - 💻 I work as a Systems Analyst.
-- 📚 I hold a Bachelor's Degree in Computer Science.
-- 🌱 Currently, I'm learning C#, .Net, Python, and React JS.
-- 🌱 I'm currently learning cloud computing.
-- 🌱 My primary focus is on enhancing my expertise in microservices, RESTful API development and cloud computing.
-- 🌱 I'm eager to collaborate on projects and apply the fresh knowledge I've been acquiring.
+- 📚 I hold a Bachelor's degree in Computer Science.
+- 🌱 I'm currently learning C#, .NET, Python, and React JS.
+- ☁️ I'm also diving into cloud computing.
+- 🎯 My main focus is on deepening my knowledge of microservices, RESTful API development, and cloud technologies.
+- 🤝 I'm eager to collaborate on projects and apply the knowledge I've been gaining.
 
 ## Connect with me
 
@@ -16,15 +16,14 @@
 
 <div align="center">
   <a href="https://github.com/Juliolimahen">
-  <img height="180em"src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Juliolimahen&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Juliolimahen&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=Juliolimahen&layout=compact&langs_count=8&theme=nightowl"/>
 </div>
 <br>
 
-## Languages used in everyday life
+## Most common languages I work with
 
-  <div style="display: inline_block"><br>
-  
+<div style="display: inline_block"><br>
   <img align="center" alt="Julio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Julio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Julio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -32,7 +31,21 @@
   <img align="center" alt="Julio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Julio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Julio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Julio-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Julio-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  
+  <img align="center" alt="Julio-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Julio-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 </div>
+
+<br>
+
+## 📦 Featured Projects - React & .NET
+
+### ⚛️ React Projects
+
+- [**app-client-react**](https://github.com/Juliolimahen/dsdeliver-sds2) – Aplicação front-end utilizando React e integração com APIs.
+- [**front-end-challenge**]() – Projeto desafiador com foco em componentes e UI moderna.
+
+### 🧩 .NET Projects
+
+- [**api-cadastro-dotnet**](https://github.com/Juliolimahen/api-corporativa) – O projeto consiste em uma api de uma clínica médica. A api possuí testes de unidade e integração e também conte com um sistema de autenticação com token JWT.
+- [**microservice-orders-dotnet**](https://github.com/Juliolimahen/alura-formacao-csharp/tree/main/microsservicos-e-net6-implementando-a-comunicacao) – Exemplo de arquitetura baseada em microserviços com .NET.
+-[**microservice-orders-dotnet**](https://github.com/Juliolimahen/alura-formacao-csharp/tree/main/solid-com-c%23-principios-da-programacao-orientada-a-objetos) – Exemplo de arquitetura baseada em microserviços com .NET.
