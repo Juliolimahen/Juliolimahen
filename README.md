@@ -36,16 +36,3 @@
 </div>
 
 <br>
-
-## 📦 Featured Projects - React & .NET
-
-### ⚛️ React Projects
-
-- [**app-client-react**](https://github.com/Juliolimahen/dsdeliver-sds2) – Aplicação front-end utilizando React e integração com APIs.
-- [**front-end-challenge**]() – Projeto desafiador com foco em componentes e UI moderna.
-
-### 🧩 .NET Projects
-
-- [**api-cadastro-dotnet**](https://github.com/Juliolimahen/api-corporativa) – O projeto consiste em uma api de uma clínica médica. A api possuí testes de unidade e integração e também conte com um sistema de autenticação com token JWT.
-- [**microservice-orders-dotnet**](https://github.com/Juliolimahen/alura-formacao-csharp/tree/main/microsservicos-e-net6-implementando-a-comunicacao) – Exemplo de arquitetura baseada em microserviços com .NET.
--[**microservice-orders-dotnet**](https://github.com/Juliolimahen/alura-formacao-csharp/tree/main/solid-com-c%23-principios-da-programacao-orientada-a-objetos) – Exemplo de arquitetura baseada em microserviços com .NET.
