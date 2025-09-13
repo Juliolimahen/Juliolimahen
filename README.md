@@ -1,7 +1,7 @@
 # Julio Henrique
 
 - 👋 Hi, I'm Julio.
-- 💻 I work as a Systems Analyst.
+- 💻 I work as a Software Developer.
 - 📚 I hold a Bachelor's degree in Computer Science.
 - 🌱 I'm currently learning C#, .NET, Python, and React JS.
 - ☁️ I'm also diving into cloud computing.
