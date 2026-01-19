@@ -12,6 +12,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-henrique-143193154/)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.juliolimadev.com.br)
+
 ## GitHub Stats
 
 <div align="center"> <a href="https://github.com/Juliolimahen"> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Juliolimahen&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=Juliolimahen&layout=compact&langs_count=8&theme=nightowl"/> </div> <br>
